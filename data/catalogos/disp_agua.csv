@@ -1,0 +1,8 @@
+disp_agua,descripcion
+1,Agua entubada dentro de la vivienda
+2,"Agua entubada fuera de la vivienda, pero dentro del terreno"
+3,Agua entubada de llave pública (o hidrante)
+4,Captadores de agua de lluvia
+5,Agua entubada que acarrean de otra vivienda
+6,Agua de pipa
+7,"Agua de un pozo, río, lago, arroyo u otra"
